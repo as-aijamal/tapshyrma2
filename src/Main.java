@@ -4,5 +4,6 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("Ozgoruu kirgizdik");
+        System.out.println("Dage ozgortuu kirgizdim");
     }
 }
